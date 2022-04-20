@@ -1,0 +1,11 @@
+C:\Users\Lois Gonzales\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\Lois Gonzales\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lois Gonzales\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\Lois Gonzales\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Lois Gonzales\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\Lois Gonzales\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Lois Gonzales\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Lois Gonzales\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Lois Gonzales\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Lois Gonzales\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Lois Gonzales\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
